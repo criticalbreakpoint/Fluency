@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluency.Framework", "Fluency.Framework\Fluency.Framework.csproj", "{F2BB7946-5084-4F1F-BA06-1E33E91E18B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluency.Tests", "Fluency.Tests\Fluency.Tests.csproj", "{C825CD74-9FB4-4B56-97E8-844F50602F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluency.Sample", "Fluency.Sample\Fluency.Sample.csproj", "{E7DDC8F1-BD5C-4157-A47E-68C904197E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2BB7946-5084-4F1F-BA06-1E33E91E18B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BB7946-5084-4F1F-BA06-1E33E91E18B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BB7946-5084-4F1F-BA06-1E33E91E18B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BB7946-5084-4F1F-BA06-1E33E91E18B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C825CD74-9FB4-4B56-97E8-844F50602F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C825CD74-9FB4-4B56-97E8-844F50602F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C825CD74-9FB4-4B56-97E8-844F50602F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C825CD74-9FB4-4B56-97E8-844F50602F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DDC8F1-BD5C-4157-A47E-68C904197E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DDC8F1-BD5C-4157-A47E-68C904197E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DDC8F1-BD5C-4157-A47E-68C904197E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DDC8F1-BD5C-4157-A47E-68C904197E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
